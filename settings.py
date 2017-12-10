@@ -33,7 +33,7 @@ def init():
   v7= u"回复 7 加北美表情分享总群;\n"
   v8= u"回复 8 加德州实习工作内推总群;"
   v12= u"回复 99 查看【北美加群小助手Jogchat.com】\n 公众号二维码加硅谷、西雅图、三番、UIUC、Purdue等地群\n"
-  vT =v000+v00+v0+v1+v2+v3+v4+v5+v6+v7+v12
+  vT =v000+v00+v0+v1+v2+v3+v4+v5+v6+v7+v8+v12
   
   usersDict = {}
   admins = []
